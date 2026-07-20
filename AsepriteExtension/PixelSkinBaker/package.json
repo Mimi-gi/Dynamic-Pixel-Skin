@@ -1,0 +1,14 @@
+{
+  "name": "pixel-skin-baker",
+  "displayName": "Pixel Skin Baker",
+  "description": "DirectionalSkin と DirectionalAnimation を照合し、R/G に座標をエンコードした UV Sprite スプライトシートを生成する。",
+  "version": "0.1.0",
+  "author": {
+    "name": "Pixel-Skin project"
+  },
+  "contributes": {
+    "scripts": [
+      { "path": "./main.lua" }
+    ]
+  }
+}
