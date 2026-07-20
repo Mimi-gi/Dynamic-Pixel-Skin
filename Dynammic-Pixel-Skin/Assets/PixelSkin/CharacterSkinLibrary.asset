@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ab03b8375a37a4cbfc01b4b48c8434, type: 3}
+  m_Name: CharacterSkinLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::PixelSkin.CharacterSkinLibrary
+  characterId: 
+  skins:
+  - {fileID: 11400000, guid: 1115a2b7631fc7a4180a9692224e3b1b, type: 2}
+  - {fileID: 11400000, guid: 226a75fea0119694c9214624feea1833, type: 2}
+  - {fileID: 11400000, guid: e9522b1c8c4710744a809da911ae2f29, type: 2}
